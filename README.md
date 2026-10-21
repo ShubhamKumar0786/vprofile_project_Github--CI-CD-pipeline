@@ -57,6 +57,7 @@ flowchart TD
     N --> O[Push Image to Amazon ECR]
     I -->|No| P[Publishing job does not run]
 ```
+### Github Actions
 
 ### Pipeline summary
 
